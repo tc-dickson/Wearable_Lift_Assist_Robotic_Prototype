@@ -20,8 +20,8 @@ After considering a wide range of alternatives we settled on a backpack-mounted,
 - Handle-mounted strain gauges detect changes in load.
 
 ## What I Learned
-- I learned how to work in a team to go from concept to functioning prototype.
-- I learned how to apply my varied skill set to play a role in completing many systems from mechanical, to electrical, to software.
+- How to work in a team to go from concept to functioning prototype.
+- How to apply my varied skill set to play a role in completing many systems from mechanical, to electrical, to software.
 
 ## Files Included
 
